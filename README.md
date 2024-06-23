@@ -58,3 +58,14 @@ Run Test
 `devpi install -r requirements-dev.txt`
 
 `tox`
+
+
+
+---
+
+
+
+## similar projects
+
+- https://github.com/kovidgoyal/calibre
+  - https://github.com/kovidgoyal/calibre/raw/master/src/calibre/ebooks/metadata/sources/amazon.py
