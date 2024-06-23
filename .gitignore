@@ -46,3 +46,5 @@ ENV/
 *.ini
 !tox.ini
 .DS_Store
+
+tests/pages/
